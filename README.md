@@ -14,6 +14,7 @@ Start your PostgreSQL database:
 
 ````
 service start postgresql
+````
 
 Create your .env file and add your database connection data:
 
