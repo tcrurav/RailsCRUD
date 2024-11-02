@@ -41,3 +41,5 @@ group :development, :test do
 end
 
 
+
+gem "importmap-rails", "~> 2.0"
